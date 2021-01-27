@@ -1,6 +1,6 @@
 # my-vscode-theme
 
-{
+#{
     "workbench.colorTheme": "Cobalt2",
     "window.zoomLevel": 0,
     "editor.accessibilitySupport": "off",
@@ -53,4 +53,5 @@
     "workbench.iconTheme": "material-icon-theme",
     "tabnine.experimentalAutoImports": true,
     "sync.gist": "373da1a0e6d18a3b6a10",
-}
+}##
+
